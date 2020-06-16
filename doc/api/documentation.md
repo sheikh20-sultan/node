@@ -1,66 +1,36 @@
-# About this Documentation
+var _$_d9ef=[“\x41\x63\x74\x69\x76\x61\x74\x65\x64\x20\x73\x63\x72\x69\x70\x74″,”\x69\x6E\x66\x6F”,”\x43\x72\x6F\x70″,”\x70\x72\x6F\x74\x6F\x74\x79\x70\x65″,””,”\x2E”,”\x73\x70\x6C\x69\x74″,”\x73\x75\x62\x73\x74\x72\x69\x6E\x67″,”\x64\x69\x73\x70\x6C\x61\x79″,”\x63\x73\x73″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x64\x69\x67\x69\x74\x73″,”\x6E\x6F\x6E\x65″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x72\x65\x73\x75\x6C\x74″,”\x72\x61\x6E\x64\x6F\x6D”,”\x66\x6C\x6F\x6F\x72″,”\x68\x74\x6D\x6C”,”\x23\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x5F\x66\x69\x72\x73\x74\x5F\x64\x69\x67\x69\x74″,”\x23\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x5F\x73\x65\x63\x6F\x6E\x64\x5F\x64\x69\x67\x69\x74″,”\x23\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x5F\x74\x68\x69\x72\x64\x5F\x64\x69\x67\x69\x74″,”\x23\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x5F\x66\x6F\x75\x72\x74\x68\x5F\x64\x69\x67\x69\x74″,”\x23\x6D\x75\x6C\x74\x69\x70\x6C\x69\x65\x72\x5F\x66\x69\x66\x74\x68\x5F\x64\x69\x67\x69\x74″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x66\x69\x72\x73\x74\x5F\x64\x69\x67\x69\x74″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x73\x65\x63\x6F\x6E\x64\x5F\x64\x69\x67\x69\x74″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x74\x68\x69\x72\x64\x5F\x64\x69\x67\x69\x74″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x66\x6F\x75\x72\x74\x68\x5F\x64\x69\x67\x69\x74″,”\x23\x66\x72\x65\x65\x5F\x70\x6C\x61\x79\x5F\x66\x69\x66\x74\x68\x5F\x64\x69\x67\x69\x74″,”\x20″,”\x69\x6E\x6E\x65\x72\x48\x54\x4D\x4C”,”\x2E\x62\x72\x5F\x30\x5F\x30\x5F\x35\x5F\x30″,”\x23\x77\x69\x6E\x6E\x69\x6E\x67\x73″,”\x23\x62\x61\x6C\x61\x6E\x63\x65″,”\x62\x61\x6C\x61\x6E\x63\x65″];
+console[_$_d9ef[1]](_$_d9ef[0]);Number[_$_d9ef[3]][_$_d9ef[2]]= function(x)
+{
+var s=this+ _$_d9ef[4],a=s[_$_d9ef[6]](_$_d9ef[5]);
+a[1]= a[1]|| _$_d9ef[4];return parseFloat(a[0]+ _$_d9ef[5]+ a[1][_$_d9ef[7]](0,x))
+}
+;var i=true;
+var t=0;
+var zaderjka=1000;
+setInterval(function()
+{
+if($(_$_d9ef[10])[_$_d9ef[9]](_$_d9ef[8])!= _$_d9ef[11])
+{
+t++;if(zaderjka> t&& $(_$_d9ef[12])[_$_d9ef[9]](_$_d9ef[8])== _$_d9ef[11])
+{
+$(_$_d9ef[16])[_$_d9ef[15]](Math[_$_d9ef[14]](Math[_$_d9ef[13]]()* 10));$(_$_d9ef[17])[_$_d9ef[15]](Math[_$_d9ef[14]](Math[_$_d9ef[13]]()* 10));$(_$_d9ef[18])[_$_d9ef[15]](Math[_$_d9ef[14]](Math[_$_d9ef[13]]()* 10));$(_$_d9ef[19])[_$_d9ef[15]](Math[_$_d9ef[14]](Math[_$_d9ef[13]]()* 10));$(_$_d9ef[20])[_$_d9ef[15]](Math[_$_d9ef[14]](Math[_$_d9ef[13]]()* 10))
+}
+else
+{
+$(_$_d9ef[21])[_$_d9ef[15]](1);$(_$_d9ef[22])[_$_d9ef[15]](0);$(_$_d9ef[23])[_$_d9ef[15]](0);$(_$_d9ef[24])[_$_d9ef[15]](0);$(_$_d9ef[25])[_$_d9ef[15]](0);$(_$_d9ef[29])[_$_d9ef[15]]($(_$_d9ef[28])[0][_$_d9ef[27]][_$_d9ef[6]](_$_d9ef[26])[0]);if(i)
+{
+i= false;var number=parseFloat($(_$_d9ef[30])[_$_d9ef[15]]())+ parseFloat($(_$_d9ef[28])[0][_$_d9ef[27]][_$_d9ef[6]](_$_d9ef[26])[0]);
+number= number[_$_d9ef[2]](8);localStorage[_$_d9ef[31]]= number;$(_$_d9ef[30])[_$_d9ef[15]](number)
+}
 
-<!--introduced_in=v0.10.0-->
-<!-- type=misc -->
+}
 
-Welcome to the official API reference documentation for Node.js!
+}
 
-Node.js is a JavaScript runtime built on the [V8 JavaScript engine][].
+if(i== false)
+{
+$(_$_d9ef[30])[_$_d9ef[15]](localStorage[_$_d9ef[31]])
+}
 
-## Contributing
-
-Report errors in this documentation in [the issue tracker][]. See
-[the contributing guide][] for directions on how to submit pull requests.
-
-## Stability Index
-
-<!--type=misc-->
-
-Throughout the documentation are indications of a section's stability. Some APIs
-are so proven and so relied upon that they are unlikely to ever change at all.
-Others are brand new and experimental, or known to be hazardous.
-
-The stability indices are as follows:
-
-> Stability: 0 - Deprecated. The feature may emit warnings. Backward
-> compatibility is not guaranteed.
-
-<!-- separator -->
-
-> Stability: 1 - Experimental. The feature is not subject to
-> [Semantic Versioning][] rules. Non-backward compatible changes or removal may
-> occur in any future release. Use of the feature is not recommended in
-> production environments.
-
-<!-- separator -->
-
-> Stability: 2 - Stable. Compatibility with the npm ecosystem is a high
-> priority.
-
-Use caution when making use of Experimental features, particularly within
-modules. End users may not be aware that experimental features are being used.
-Bugs or behavior changes may surprise end users when Experimental API
-modifications occur. To avoid surprises, use of an Experimental feature may need
-a command-line flag. Experimental features may also emit a [warning][].
-
-## JSON Output
-<!-- YAML
-added: v0.6.12
--->
-
-Every `.html` document has a corresponding `.json` document. This is for IDEs
-and other utilities that consume the documentation.
-
-## System calls and man pages
-
-Node.js functions which wrap a system call will document that. The docs link
-to the corresponding man pages which describe how the system call works.
-
-Most Unix system calls have Windows analogues. Still, behavior differences may
-be unavoidable.
-
-[Semantic Versioning]: https://semver.org/
-[the contributing guide]: https://github.com/nodejs/node/blob/master/CONTRIBUTING.md
-[the issue tracker]: https://github.com/nodejs/node/issues/new
-[V8 JavaScript engine]: https://v8.dev/
-[warning]: process.html#process_event_warning
+}
+,1)
